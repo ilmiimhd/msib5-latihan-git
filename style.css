@@ -1,0 +1,37 @@
+body {
+    margin: 0 0 100px 0;
+    padding: 0;
+}
+h1 {
+    font-size: 50px;
+    font-family: Geneva;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 50px;
+    background: url(bg1.png);
+    background-size: cover;
+    padding: 20px;
+    color: black;
+}
+h2 {
+    font-size: 20px;
+    font-family: Geneva;
+    font-style: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 15px;
+    font-family: Cambria, serif;
+    margin: 20px;
+    padding: 0 20px;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+    height: 185px;
+}
